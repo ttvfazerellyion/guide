@@ -50,9 +50,8 @@ client.once('ready', () => {
 });
 
 // login to Discord with your app's token
-client.login('your-token-goes-here');
-```
-
+client.login('NzU3NzE0NzA1MTgyODgzOTcx.X2kazw.kJqcwbo7tF6_h0q7tbpXkZf27UA')
+,,,
 Although it's not a lot, it's good to know what each bit of your code does. But, as it currently is, this won't really do anything. You probably want to add some commands that run whenever someone sends a specific message, right? Let's get started on that, then!
 
 ## Listening for messages
